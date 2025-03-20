@@ -1,7 +1,7 @@
 <!--BADGE LINK:START-->
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/Utilities/blob/main/README.md"><img src="https://img.shields.io/badge/Language-PT-9EF0F0"></a>
-    <a href="https://github.com/Amanda-ribeiiro/Utilities/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-EN-007D79"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/blob/main/README.md"><img src="https://img.shields.io/badge/Language-PT-9EF0F0"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-EN-007D79"></a>
 </div>
 <!--BADGE LINK:END-->
 
@@ -23,12 +23,12 @@
 <!-- This section is the topics with their respective links -->
 <!-- TOPICS:START -->
 <ul>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/CSS" target="_blank" rel="noopener" >CSS</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/HTML" target="_blank" rel="noopener" >HTML</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/JS" target="_blank" rel="noopener" >Javascript</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/Documentações" target="_blank" rel="noopener" >Documentation</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/Cursos" target="_blank" rel="noopener" >Courses</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/Eventos Tech" target="_blank" rel="noopener" >Tech Events</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/CSS" target="_blank" rel="noopener" >CSS</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/HTML" target="_blank" rel="noopener" >HTML</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/JS" target="_blank" rel="noopener" >Javascript</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/Documentações" target="_blank" rel="noopener" >Documentation</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/Cursos" target="_blank" rel="noopener" >Courses</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/Eventos Tech" target="_blank" rel="noopener" >Tech Events</a></li>
 <ul>
 <!-- TOPICS:END -->
 
