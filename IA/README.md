@@ -545,8 +545,8 @@
 
 ## Referências
 
-[Canal Tech](https://canaltech.com.br/inteligencia-artificial/sites-e-apps-de-ia-gratis-similares-ao-chatgpt/)
-[Azvdev](https://www.instagram.com/p/DHPK8ybx4oL/?img_index=9)
+- [Canal Tech](https://canaltech.com.br/inteligencia-artificial/sites-e-apps-de-ia-gratis-similares-ao-chatgpt/)
+- [Azvdev](https://www.instagram.com/p/DHPK8ybx4oL/?img_index=9)
 
 <br>
 <br>
