@@ -577,5 +577,5 @@
 <!--LINE:END-->
 
 <!-- FOOTER:START -->
-<h4 align="center">Projeto criado e mantido por <a href="https://github.com/Amanda-ribeiiro">@Amanda-ribeiiro</a></h4>
+<h4 align="center">Repositório criado e mantido por <a href="https://github.com/Amanda-ribeiiro">@Amanda-ribeiiro</a></h4>
 <!-- FOOTER:END -->
