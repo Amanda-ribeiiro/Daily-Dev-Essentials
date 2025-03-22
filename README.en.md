@@ -28,7 +28,7 @@
   <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/JS" target="_blank" rel="noopener" >Javascript</a></li>
     <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Git & Github" target="_blank" rel="noopener" >Git & Github</a></li>
   <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/IDEs" target="_blank" rel="noopener" >IDEs</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/AI" target="_blank" rel="noopener" >IA</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/IA" target="_blank" rel="noopener" >IA</a></li>
   <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Documentações" target="_blank" rel="noopener" >Documentation</a></li>
   <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Cursos" target="_blank" rel="noopener" >Courses</a></li>
   <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Eventos Tech" target="_blank" rel="noopener" >Tech Events</a></li>
