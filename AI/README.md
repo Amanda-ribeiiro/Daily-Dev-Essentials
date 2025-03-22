@@ -1,7 +1,7 @@
 <!--LINK DAS BADGES:START-->
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/AI/README.md"><img src="https://img.shields.io/badge/Idioma-PT-9EF0F0"></a>
-    <a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/AI/README.en.md"><img src="https://img.shields.io/badge/Idioma-EN-007D79"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/AI/README.md"><img src="https://img.shields.io/badge/Idioma-PT-9EF0F0"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/AI/README.en.md"><img src="https://img.shields.io/badge/Idioma-EN-007D79"></a>
 </div>
 <!--LINK DAS BADGES:END-->
 

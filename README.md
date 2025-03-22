@@ -1,7 +1,7 @@
 <!--LINK DAS BADGES:START-->
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-PT-9EF0F0"></a>
-    <a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/blob/main/README.en.md"><img src="https://img.shields.io/badge/Idioma-EN-007D79"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-PT-9EF0F0"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/blob/main/README.en.md"><img src="https://img.shields.io/badge/Idioma-EN-007D79"></a>
 </div>
 <!--LINK DAS BADGES:END-->
 
@@ -11,7 +11,7 @@
 <!-- GREETING & TITLE:STAR -->
 <p align="center">
   <a href="https://github.com/Amanda-ribeiiro">
-    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Utilidades>">
+    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Daily>;<Dev+Essentials>">
   </a>
 </p>
 <!-- GREETING & TITLE:END -->
@@ -23,15 +23,15 @@
 <!-- Essa seção são os tópicos com seus respectivos links -->
 <!-- TÓPICOS:START -->
 <ul>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/tree/main/CSS" target="_blank" rel="noopener" >CSS</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/HTML" target="_blank" rel="noopener" >HTML</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/JS" target="_blank" rel="noopener" >Javascript</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/Git & Github" target="_blank" rel="noopener" >Git & Github</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/IDEs" target="_blank" rel="noopener" >IDEs</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/AI" target="_blank" rel="noopener" >AI</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/Documentações" target="_blank" rel="noopener" >Documentações</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/Cursos" target="_blank" rel="noopener" >Cursos</a></li>
-  <li><a href="https://github.com/Amanda-ribeiiro/Utilities/tree/main/Eventos Tech" target="_blank" rel="noopener" >Eventos Tech</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/tree/main/CSS" target="_blank" rel="noopener" >CSS</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/HTML" target="_blank" rel="noopener" >HTML</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/JS" target="_blank" rel="noopener" >Javascript</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Git & Github" target="_blank" rel="noopener" >Git & Github</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/IDEs" target="_blank" rel="noopener" >IDEs</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/AI" target="_blank" rel="noopener" >IA</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Documentações" target="_blank" rel="noopener" >Documentações</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Cursos" target="_blank" rel="noopener" >Cursos</a></li>
+  <li><a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/Eventos Tech" target="_blank" rel="noopener" >Eventos Tech</a></li>
 <ul>
 <!-- TÓPICOS:END -->
 
