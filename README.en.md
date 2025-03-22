@@ -1,7 +1,7 @@
 <!--BADGE LINK:START-->
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/blob/main/README.md"><img src="https://img.shields.io/badge/Language-PT-9EF0F0"></a>
-    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/tree/main/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-EN-007D79"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/blob/main/README.md"><img src="https://img.shields.io/badge/Language-PT-9EF0F0"></a>
+    <a href="https://github.com/Amanda-ribeiiro/Daily-Dev-Essentials/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-EN-007D79"></a>
 </div>
 <!--BADGE LINK:END-->
 
