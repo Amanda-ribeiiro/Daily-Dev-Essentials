@@ -11,7 +11,7 @@
 <!-- GREETING & TITLE:STAR -->
 <p align="center">
   <a href="https://github.com/Amanda-ribeiiro">
-    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<AI>;<PARA+CADA+FUNÇÃO>">
+    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<IA>;<PARA+CADA+FUNÇÃO>">
   </a>
 </p>
 <!-- GREETING & TITLE:END -->
